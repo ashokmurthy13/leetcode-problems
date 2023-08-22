@@ -1,3 +1,4 @@
+package array.string;
 
 class MergeStringsAlternatively {
 
